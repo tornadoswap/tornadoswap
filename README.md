@@ -1,7 +1,6 @@
 ## TornadoSwap
 
-Yield Farming on Binance Smart Chain
-Yield Farm & Algorithmic Stablecoin Protocol & AMM on #BSC
+OPEN SOURCE Yield Farming on Binance Smart Chain & Algorithmic Stablecoin Protocol & AMM on #BSC
 
 Website : https://tornadoswap.online
 ----
