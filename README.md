@@ -9,7 +9,9 @@ App : https://app.tornadoswap.online
 Docs : https://github.com/tornadoswap/docs
 ----
 
-## What is TornadoSwap
+## What is TornadoSwap!
+[tornado-logo-curves](https://user-images.githubusercontent.com/84276822/119199401-440f3580-ba8b-11eb-9c5f-f2877f47c0f0.png)
+
 
 TornadoSwap is a brand new DeFi project designed by an experienced development team as the 3rd generation deflationary yield farm & AMM on #BSC.
 Besides the buyback burning mechanism introduced by Goose Finance, we have implemented some unique innovative features on TornadoSwap’s yield farm to fight against the inflation problem faced by most traditional yield farms and even Goose Finance.
