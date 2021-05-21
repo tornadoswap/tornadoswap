@@ -6,6 +6,8 @@ Website : https://tornadoswap.online
 ----
 App : https://app.tornadoswap.online
 ----
+Docs : https://github.com/tornadoswap/docs
+----
 
 ## What is TornadoSwap
 
@@ -14,6 +16,16 @@ Besides the buyback burning mechanism introduced by Goose Finance, we have imple
 
 Unlike other deflationary yield farms, we don't plan to develop layered farming after launch. Because we think it doesn't make much sense to keep issuing new tokens by layered farming. 
 *Kindly remind, please always Do Your Own Research! Only Invest what you can afford to lose.*
+
+## Roadmap
+
+![alt text](https://lottery.tornadoswap.online/Roadmap-TornadoSwap.jpg)
+
+## Useful information
+
+$TORN token: 0xe2eb7f2baf1ab2dc4c1b140faa2f75f3a4f8d208
+MasterChef: https://bscscan.com/address/0xe477b0532d5c02a4c126572de0c59a526fd811b5#code
+Timelock: https://bscscan.com/address/0xd5889f5eac67d60a9166aa840f1e722f2f298ec1#code
 
 ## How to contribute
 
